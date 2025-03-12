@@ -32,3 +32,8 @@
 6. [DNS port](https://github.com/haidaqn/note/blob/master/vmware/docs/dns_port.md)
 7. [Giao thức](https://github.com/haidaqn/note/blob/master/vmware/docs/giaothuc.md)
 8. [ip](https://github.com/haidaqn/note/blob/master/vmware/docs/ip.md)
+
+
+## Redis
+1. [Tổng Quan](https://github.com/haidaqn/note/blob/master/redis/README.md)
+
