@@ -36,4 +36,8 @@
 
 ## Redis
 1. [Tổng Quan](https://github.com/haidaqn/note/blob/master/redis/README.md)
+2. [Interview](https://github.com/haidaqn/note/blob/master/redis/interview.md)
 
+
+## Rabbit MQ
+1. [Tổng Quan](https://github.com/haidaqn/note/blob/master/MQ/rmq/README.md)
