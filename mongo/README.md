@@ -231,4 +231,3 @@ db.stores.find({
 - **Toán tử aggregation**: `$lookup`, `$group`, `$sort`
 - **Toán tử hình học**: `$near`, `$geoWithin`
 
-Anh Đăng cần làm gì với MongoDB? 🚀
