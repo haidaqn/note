@@ -45,3 +45,6 @@
 
 ## MongoDB
 1. [Tổng Quan](https://github.com/haidaqn/note/blob/master/mongo/README.md)
+
+## MYSQL
+1. [Tổng Quan](https://github.com/haidaqn/note/blob/master/mysql/README.md)
